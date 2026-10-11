@@ -1,0 +1,15 @@
+{
+  "name": "eshop-hub",
+  "version": "1.0.0",
+  "description": "EShop Hub Full-Stack E-Commerce Application",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "python backend/app.py",
+    "start": "start.bat"
+  },
+  "keywords": ["ecommerce", "react", "flask", "razorpay"],
+  "author": "",
+  "license": "ISC"
+}
